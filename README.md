@@ -1,5 +1,7 @@
 # RebuildPDFCMap
 
+[![Nuget](https://img.shields.io/nuget/v/HiraokaHyperTools.LibRebuildPDFCMap)](https://github.com/HiraokaHyperTools/RebuildPDFCMap)
+
 Try to generate `/ToUnicode` from embedded TrueType fonts.
 
 ![pdfxp1](https://user-images.githubusercontent.com/5955540/212269636-14be909d-62b1-4600-bc2d-1b20e565c173.png)
